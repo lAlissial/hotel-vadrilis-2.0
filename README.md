@@ -1,1 +1,1 @@
-# hotel-vadrilis-2.0
+# Hotel Vadrilis - 2.0
