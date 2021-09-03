@@ -52,7 +52,7 @@ function createAreaPServ(service){
                 ${listaServicosAreaBranca(service.lista)}
               </ul>
               <button class="btnpl">
-                <a href="https://https://ifpb.github.io/lm/">LER MAIS</a>
+                <a href="https://ifpb.github.io/lm/">LER MAIS</a>
               </button>
             </div>
           </div>`;
